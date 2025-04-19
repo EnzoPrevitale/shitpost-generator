@@ -1,0 +1,10 @@
+Resumo: Diodos Semicondutores
+
+Diodos semicondutores são componentes eletrônicos fundamentais em circuitos eletrônicos. Eles são formados por uma junção de dois materiais semicondutores: tipo P (rico em lacunas) e tipo N (rico em elétrons). A principal característica de um diodo é permitir a passagem de corrente elétrica em apenas uma direção — do anodo (P) para o catodo (N) — e bloquear a corrente no sentido inverso.
+
+Esse comportamento unidirecional é essencial para aplicações como retificação de corrente alternada (AC) em corrente contínua (DC), proteção contra polaridade reversa e comutação de sinais. Quando polarizado diretamente (P ligado ao positivo e N ao negativo), o diodo conduz corrente; quando polarizado reversamente, ele praticamente impede a passagem de corrente.
+
+Existem diferentes tipos de diodos semicondutores, como o diodo Zener (utilizado para estabilização de tensão), o diodo Schottky (com baixa queda de tensão direta e alta velocidade de comutação), e os diodos emissores de luz (LEDs), que emitem luz quando a corrente os atravessa.
+
+Os diodos são fabricados com materiais semicondutores como o silício e o germânio, sendo o silício o mais comum devido à sua estabilidade térmica e disponibilidade. O entendimento do funcionamento dos diodos é crucial para a eletrônica moderna, pois eles estão presentes em quase todos os dispositivos eletrônicos, desde carregadores de celular até sistemas de energia solar.
+
